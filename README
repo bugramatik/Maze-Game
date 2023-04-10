@@ -1,0 +1,4 @@
+# Maze Game
+## Build and Run
+This project can be compiled and run via Intellij Idea's Java Compiler API.
+From Run/Edit Configurations/Program Arguments, path of map (data/map1.dat) can be given.
