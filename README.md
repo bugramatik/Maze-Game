@@ -1,5 +1,8 @@
 # Maze Game - Pac-Man Style
 This repository contains a Pac-Man style Maze game implemented using Java and object-oriented programming principles, including design patterns such as Strategy Pattern, Singleton Pattern, Observer Pattern, and Decorator Pattern. The game is a fun and engaging experience for users who enjoy solving puzzles and exploring mazes, featuring various actors such as the player, enemies, bullets, power-ups, and walls.
+
+​![Maze Game Screenshot](https://github.com/bugramatik/Maze-Game/blob/master/Game%20Screenshot.png)
+
 ## Features
 - User-controlled player navigating the maze to collect all power-ups to win the game.
 - Enemies patrolling the maze, capable of killing the player upon collision.
