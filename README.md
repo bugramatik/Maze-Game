@@ -28,11 +28,10 @@ The game includes various actors with specific properties and functionalities:
 1. **Wall**: Sprite Path: "./data/img/wall.png".
 1. **Bullet**: Bullet Life: 0.7 seconds, Bullet Speed: 300 pixels per second, Sprite Path: "./data/img/bullet.png".
 1. **Power-Up**: Sprite Path: "./data/img/scroll.png".
-UML Class Diagram
+
+## UML Class Diagram
 A UML class diagram is provided to document the code, showing important fields, methods, and relations between classes. The diagram should include composition, aggregation, dependency, and other relationships. StarUML is a recommended tool for creating the class diagram.
 
-FAQ
-Refer to the original problem statement for a list of frequently asked questions and their answers.
 ## Build and Run
 This project can be compiled and run via Intellij Idea's Java Compiler API.
 From Run/Edit Configurations/Program Arguments, path of map (data/map1.dat) can be given.
